@@ -14,4 +14,4 @@
 
 - 😄 **Pronouns:** she/her
 
-- ⚡ **Fun facts:** I love Nordic skiing, snoeshowing, and matcha. I'm also learning Scottish Gaelic. 
+- ⚡ **Fun facts:** I love Nordic skiing, snoeshowing, and matcha. I'm learning Scottish Gaelic and watch soap-making videos to relax. 
