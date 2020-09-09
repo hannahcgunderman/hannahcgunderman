@@ -1,4 +1,4 @@
-### Hi there! I'm Hannah. I'm a geographer, writer, and data consultant. Great to meet you! 👋
+### Halò! I'm Hannah. I'm a geographer, writer, and data consultant. Great to meet you! 👋
 
 - 🔭 **I’m currently working on** data management education projects, particularly using popular culture to teach data management. Also conducting research on science fiction, geopolitics, and media!
 
