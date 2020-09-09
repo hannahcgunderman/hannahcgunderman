@@ -8,7 +8,7 @@
 
 - 🤔 **I’m looking for help with** mapping more-than-Earth landscapes in geospatial software
 
-- 💬 **Ask me about** Python, ArcGIS, and data management principles/practices
+- 💬 **Ask me about** Python, ArcGIS, data management principles/practices, and Data Carpentries (certified instructor)
 
 - 📫 **How to reach me:** hgunderm@andrew.cmu.edu
 
