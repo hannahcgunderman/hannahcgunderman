@@ -4,7 +4,7 @@
 
 - 🌱 **I’m currently learning** R and QGIS
 
-- 👯 **I’m looking to collaborate on** anything data management related, or topics involving science fiction media
+- 👯 **I’m looking to collaborate on** anything data management related, or research involving science fiction media, music geography, and experiential geography.
 
 - 🤔 **I’m looking for help with** mapping more-than-Earth landscapes in geospatial software
 
@@ -14,4 +14,4 @@
 
 - 😄 **My pronouns are** she/her
 
-- ⚡ **Fun facts about me:** I love Nordic skiing, snoeshowing, and matcha. I'm learning Scottish Gaelic and watch soap-making videos to relax. 
+- ⚡ **Fun facts about me:** I love Nordic skiing, snoeshowing, and matcha. I'm learning Scottish Gaelic and watch soap-making videos to relax. I'm currently writing a book on Doctor Who fandom.
