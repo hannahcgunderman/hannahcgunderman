@@ -1,6 +1,6 @@
 ### Halò! I'm Hannah. I'm a geographer, writer, and data consultant. Fàilte and great to meet you! 👋
 
-- 🔭 **I’m currently working on** data management education projects, including using popular culture to teach data management. Also conducting research on science fiction, geopolitics, and media!
+- 🔭 **I’m currently working on** data management education projects, including using popular culture to teach data management. I also actively conduct research in cultural geography on music and placemaking, science fiction and geopolitics, and media geographies!
 
 - 🌱 **I’m currently learning** R and QGIS
 
