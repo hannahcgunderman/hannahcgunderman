@@ -12,6 +12,6 @@
 
 - 📫 **You can reach me at** hgunderm@andrew.cmu.edu
 
-- 😄 **My pronouns are** she/her
+- 😄 **My pronouns are** she/her or they/them
 
 - ⚡ **Fun facts about me:** I love Nordic skiing, snoeshowing, and matcha. I'm an active speaker and learner of Scottish Gaelic and watch soap-making videos to relax. I'm currently writing a book on Doctor Who fandom.
