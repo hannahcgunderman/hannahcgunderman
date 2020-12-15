@@ -6,7 +6,7 @@
 
 - 👯 **I’m looking to collaborate on** anything data management related, or research involving science fiction media, music geography, and experiential geography.
 
-- 🤔 **I’m looking for help with** mapping more-than-Earth landscapes and fantasy worlds in geospatial software
+- 🤔 **I’m looking for help with** mapping interstellar landscapes and fantasy worlds in geospatial software
 
 - 💬 **Ask me about** Python, ArcGIS, data management principles/practices, Data Carpentries (certified instructor; open to Python, OpenRefine, and spreadsheet instruction), and geography/data/librarianship career mentoring.
 
