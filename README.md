@@ -12,6 +12,6 @@
 
 - 📫 **You can reach me at** hgunderm@andrew.cmu.edu
 
-- 😄 **My pronouns are** she/her or they/them. Please refer to me using a combination of both!
+- 😄 **My pronouns are** anything you'd like to use! I am nonbinary and comfortable with any pronouns you would like to use with me. Please feel free to use a mix of pronouns when referring to me! 
 
 - ⚡ **Fun facts about me:** I love Nordic skiing, snoeshowing, and matcha. Tha Gàidhlig agam (I'm an active speaker and learner of Scottish Gaelic) and I watch soap-making videos to relax. I'm currently writing a book on Doctor Who fandom.
